@@ -4,4 +4,10 @@
 </div>
 
 # FSDforFORZA_Ver.0.1
-Full Self Driving Capability for Forza Horizon 5
+- Full Self Driving Capability for Forza Horizon 5
+- Forza Horizon5 자율주행 알고리즘
+
+
+
+-----------------
+https://blog.naver.com/kimsehyun34/223523876093
